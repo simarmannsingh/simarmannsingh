@@ -10,7 +10,6 @@ I advocate open-source projects and likes to contribute with some useful open-so
 
 If you would want me to collaborate on some really interesting projects you have going on, don't hesitate to contact. You can contact me via this [**secure link**](https://hawkpost.co/box/7497c7bd-8404-43d5-a318-b161dfc318a4). It uses 4096 bit RSA encryption and redirects your message to a post-box only I can access.
 
-Checkout my portfolio [**here**](https://simarmannsingh.github.io/portfolio/) [P.S: It could be outdated.]
 
 <p align="right">
   <img src="https://github.com/simarmannsingh/simarmannsingh/blob/master/namaste.png" width="80" title="hover text">  
